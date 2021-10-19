@@ -1,11 +1,11 @@
-{
+[
     {
         "id": 1,
         "date": "19-10-2021",
         "userName": "John",
         "rating": 5,
         "review": "Fantastic journey through configuration! Would recommend to anyone"
-    }, 
+    },
     {
         "id": 2,
         "date": "04-09-2021",
@@ -27,4 +27,4 @@
         "rating": 5,
         "review": "User-friendly documentation, lots of information in tutorials and guide section"
     }
-}
+]
