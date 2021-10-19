@@ -1,26 +1,28 @@
-[
-    {
-        "id": 1,
-        "date": "19-10-2021",
-        "userName": "John",
-        "review": "Fantastic journey through configuration! Would recommend to anyone"
-    },
-    {
-        "id": 2,
-        "date": "04-09-2021",
-        "userName": "Michael",
-        "review": "Got some problems with running on Ubuntu 21.04. Apart from that everyghing excelent"
-    }, 
-    {
-        "id": 3,
-        "date": "12-06-2020",
-        "userName": "Louise",
-        "review": "5/5! Huge and helpful community"
-    }, 
-    {
-        "id": 4,
-        "date": "23-02-2019",
-        "userName": "Matt",
-        "review": "User-friendly documentation, lots of information in tutorials and guide section"
-    }
-]
+{
+    "reviews": [
+        {
+            "id": 1,
+            "date": "19-10-2021",
+            "userName": "John",
+            "review": "Fantastic journey through configuration! Would recommend to anyone"
+        },
+        {
+            "id": 2,
+            "date": "04-09-2021",
+            "userName": "Michael",
+            "review": "Got some problems with running on Ubuntu 21.04. Apart from that everyghing excelent"
+        },
+        {
+            "id": 3,
+            "date": "12-06-2020",
+            "userName": "Louise",
+            "review": "5/5! Huge and helpful community"
+        },
+        {
+            "id": 4,
+            "date": "23-02-2019",
+            "userName": "Matt",
+            "review": "User-friendly documentation, lots of information in tutorials and guide section"
+        }
+    ]
+}
