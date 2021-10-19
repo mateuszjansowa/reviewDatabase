@@ -5,19 +5,22 @@
         "userName": "John",
         "rating": 5,
         "review": "Fantastic journey through configuration! Would recommend to anyone"
-    } {
+    }, 
+    {
         "id": 2,
         "date": "04-09-2021",
         "userName": "Michael",
         "rating": 4,
         "review": "Got some problems with running on Ubuntu 21.04. Apart from that everyghing excelent"
-    } {
+    }, 
+    {
         "id": 3,
         "date": "12-06-2020",
         "userName": "Louise",
         "rating": 5,
         "review": "5/5! Huge and helpful community"
-    } {
+    }, 
+    {
         "id": 4,
         "date": "23-02-2019",
         "userName": "Matt",
